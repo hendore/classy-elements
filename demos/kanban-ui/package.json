@@ -15,6 +15,6 @@
     "webpack-dev-server": "^4.1.0"
   },
   "dependencies": {
-    "classy-elements": "file:../.."
+    "classy-elements": "^1.0.2"
   }
 }
